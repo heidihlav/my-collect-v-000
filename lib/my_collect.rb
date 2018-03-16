@@ -8,7 +8,7 @@ def my_collect(empty_array)
     collection
 end
 
-collection = ["Cat", "Dog", "Bird"]
-my_collect(collection) do |item|
-  item.upcase
-end
+# collection = ["Cat", "Dog", "Bird"]
+# my_collect(collection) do |item|
+#   item.upcase
+# end
